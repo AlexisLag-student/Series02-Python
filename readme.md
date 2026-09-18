@@ -31,4 +31,4 @@ three pull requests above.
 
 ## Author
 
-[Your name] — IEAP, Python series 02, September 2026
+Alexis Lagarde - IEAP, Python series 02, September 2026
